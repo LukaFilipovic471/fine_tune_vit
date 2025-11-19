@@ -1,0 +1,1 @@
+## Fine tunning of the model https://huggingface.co/google/vit-base-patch16-224 ##
