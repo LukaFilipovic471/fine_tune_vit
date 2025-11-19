@@ -1,0 +1,43 @@
+# Model outputs and training results
+vit-results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorBoard logs
+runs/
+logs/
+
+# Model checkpoints (optional - uncomment if you want to ignore all checkpoints)
+# checkpoint-*/
+# pytorch_model.bin
+# model.safetensors
+
