@@ -36,40 +36,28 @@
     "predicted_label": "srednje"
   },
   {
-    "filename": "kuca_12313.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/nepoznato/kuca_12313.jpg",
-    "expected_label": "nepoznato",
-    "predicted_label": "oronule"
-  },
-  {
-    "filename": "kuca_14680.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/nepoznato/kuca_14680.jpg",
-    "expected_label": "nepoznato",
-    "predicted_label": "oronule"
-  },
-  {
-    "filename": "kuca_11928.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/oronule/kuca_11928.jpg",
+    "filename": "kuca_12383.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/oronule/kuca_12383.jpg",
     "expected_label": "oronule",
-    "predicted_label": "srednje"
-  },
-  {
-    "filename": "kuca_12147.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/oronule/kuca_12147.jpg",
-    "expected_label": "oronule",
-    "predicted_label": "srednje"
-  },
-  {
-    "filename": "kuca_14393.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/oronule/kuca_14393.jpg",
-    "expected_label": "oronule",
-    "predicted_label": "srednje"
+    "predicted_label": "nepoznato"
   },
   {
     "filename": "kuca_16458.jpg",
     "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/oronule/kuca_16458.jpg",
     "expected_label": "oronule",
     "predicted_label": "srednje"
+  },
+  {
+    "filename": "kuca_10946.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_10946.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "dobre"
+  },
+  {
+    "filename": "kuca_11887.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_11887.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "dobre"
   },
   {
     "filename": "kuca_12095.jpg",
@@ -84,8 +72,8 @@
     "predicted_label": "oronule"
   },
   {
-    "filename": "kuca_12294.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12294.jpg",
+    "filename": "kuca_12311.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12311.jpg",
     "expected_label": "srednje",
     "predicted_label": "oronule"
   },
@@ -96,16 +84,28 @@
     "predicted_label": "oronule"
   },
   {
+    "filename": "kuca_12374.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12374.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "oronule"
+  },
+  {
+    "filename": "kuca_12386.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12386.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "oronule"
+  },
+  {
+    "filename": "kuca_12400.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12400.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "oronule"
+  },
+  {
     "filename": "kuca_12479.jpg",
     "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12479.jpg",
     "expected_label": "srednje",
     "predicted_label": "nepoznato"
-  },
-  {
-    "filename": "kuca_12614.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_12614.jpg",
-    "expected_label": "srednje",
-    "predicted_label": "oronule"
   },
   {
     "filename": "kuca_13316.jpg",
@@ -120,27 +120,21 @@
     "predicted_label": "dobre"
   },
   {
-    "filename": "kuca_14326.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_14326.jpg",
-    "expected_label": "srednje",
-    "predicted_label": "dobre"
-  },
-  {
     "filename": "kuca_14400.jpg",
     "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_14400.jpg",
     "expected_label": "srednje",
     "predicted_label": "nepoznato"
   },
   {
-    "filename": "kuca_15095.jpg",
-    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_15095.jpg",
-    "expected_label": "srednje",
-    "predicted_label": "oronule"
-  },
-  {
     "filename": "kuca_152844.jpg",
     "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_152844.jpg",
     "expected_label": "srednje",
     "predicted_label": "dobre"
+  },
+  {
+    "filename": "kuca_16561.jpg",
+    "original_path": "/Users/dejandraskovic/Desktop/AI-RGZ/fine_tune_vit/slike_kuce_bgns/test/srednje/kuca_16561.jpg",
+    "expected_label": "srednje",
+    "predicted_label": "oronule"
   }
 ]
